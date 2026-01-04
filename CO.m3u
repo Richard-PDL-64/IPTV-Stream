@@ -68,3 +68,6 @@ https://live-evg5.tv360.bitel.com.pe/bitel/radiocorporacionpasco/chunks.m3u8
 
 #EXTINF:-1 tvg-id="23" tvg-name="Cumbre TV Pasco" tvg-logo="https://scontent.fjau4-1.fna.fbcdn.net/v/t39.30808-6/365110473_782452950548772_7243401422972952118_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=-DgKyl3tDqoQ7kNvwFRkWR2&_nc_oc=AdmpAAQ8PbccUGRgNLDD4lUYH6DzQ3dTRVPacRSMpvbmf3qWR_85DUCNtqc-gzudUPM&_nc_zt=23&_nc_ht=scontent.fjau4-1.fna&_nc_gid=biamDsELlNkFVIMTkazKnA&oh=00_Afniapzo2qyMKYteCJnx6MtHzaHdJhWsQdRUvIU_taNbXQ&oe=69508AAC" group-title="Pasco",Cumbre TV Pasco
 https://live-evg18.tv360.bitel.com.pe/bitel/cumbretv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="24" tvg-name="KARIBEÑA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Radio_La_Karibe%C3%B1a.svg/revision/latest/scale-to-width-down/1000?cb=20220809153753&path-prefix=es" group-title="Perú",KARIBEÑA TV
+https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
