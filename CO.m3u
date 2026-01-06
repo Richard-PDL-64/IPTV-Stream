@@ -1,73 +1,74 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-name="America TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Am%C3%A9rica_Televisi%C3%B3n_logo_con_fondo_naranja_-_entretenimiento_2016-.svg/revision/latest/scale-to-width-down/1000?cb=20240207233426&path-prefix=es" group-title="Perú",AMERICA TV
+#EXTINF:-1 tvg-id="1" tvg-name="America TV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/America%20TV.jpg?raw=true" group-title="Perú",AMERICA TV
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="ATV" tvg-logo="https://scontent.fjau4-1.fna.fbcdn.net/v/t39.30808-6/472685271_1162198022144442_6010383613696187971_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=VcbctMOh0VEQ7kNvwEHOWOT&_nc_oc=AdmoKtI7hvRgypeKUAG5AJ7WZrNsalGiO305UBUBGBOuEDwfSaipSQvOKgxCiM_tkWisfEnA49XgrmqhHpGsscDk&_nc_zt=23&_nc_ht=scontent.fjau4-1.fna&_nc_gid=EPkUINJcWrc4_Qfqd8CKxA&oh=00_Afnl9V1AQ7WPFfTsK-PPYwyM9XIBbuWCz7c0LStZzMMq8g&oe=69561C23" group-title="Perú",ATV
+#EXTINF:-1 tvg-id="2" tvg-name="ATV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ATV.jpg?raw=true" group-title="Perú",ATV
 https://live-evg20.tv360.bitel.com.pe/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="LATINA" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Latina.jpg?raw=true" group-title="Perú",LATINA
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-name="PANAMERICANA" tvg-logo="https://logowik.com/content/uploads/images/panamericana-tv5049.logowik.com.webp" group-title="Perú",PANAMERICANA
+#EXTINF:-1 tvg-id="4" tvg-name="PANAMERICANA" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Panamericana.jpg?raw=true" group-title="Perú",PANAMERICANA
 https://live-evg20.tv360.bitel.com.pe/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-name="WILLAX" tvg-logo="https://storage.googleapis.com/repositorio-willax-prd/web-willax-assets/migrated/2018/07/willax-tv2.jpg" group-title="Perú",WILLAX
+#EXTINF:-1 tvg-id="5" tvg-name="WILLAX" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Willax.jpg?raw=true" group-title="Perú",WILLAX
 https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="6" tvg-name="TV PERU" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/tvperu-digital_0.jpg" group-title="Perú",TV PERU
+#EXTINF:-1 tvg-id="6" tvg-name="TV PERU" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/TV%20Peru.jpg?raw=true" group-title="Perú",TV PERU
 https://live-evg20.tv360.bitel.com.pe/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-name="INVESTIGACION DISCOVERY" tvg-logo="https://stmify.com/wp-content/uploads/2024/09/116-s.webp" group-title="Internacional",INVESTIGACION DISCOVERY
+#EXTINF:-1 tvg-id="7" tvg-name="INVESTIGACION DISCOVERY" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Investigacion%20Discovery.jpg?raw=true" group-title="Internacional",INVESTIGACION DISCOVERY
 http://181.119.86.68:8000/play/c004/index.m3u8
 
-#EXTINF:-1 tvg-id="8" tvg-name="DISCOVERY h&h" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/bb/b2/96/bbb29665-777e-84df-2bbc-d4bf75ea10e1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/200x200ia-75.webp" group-title="Internacional",DISCOVERY h&h
+#EXTINF:-1 tvg-id="8" tvg-name="DISCOVERY h&h" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Discovery%20h&h.jpg?raw=true" group-title="Internacional",DISCOVERY h&h
 http://181.119.86.68:8000/play/c001/index.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="UNIVERSAL TV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Universal.png?raw=true" group-title="Internacional",UNIVERSAL TV
+#EXTINF:-1 tvg-id="9" tvg-name="UNIVERSAL TV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Universal.jpg?raw=true" group-title="Internacional",UNIVERSAL TV
 http://181.119.86.68:8000/play/c026/index.m3u8
 
 #EXTINF:-1 tvg-id="10" tvg-name="USA NETWORK" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/USA.jpg?raw=true" group-title="Internacional",USA Network
 http://181.119.86.68:8000/play/b041/index.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-name="DW Español" tvg-logo="https://scontent.fjau4-1.fna.fbcdn.net/v/t39.30808-6/444928383_855169599983172_1417665371680253703_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=84zngukowmAQ7kNvwFeuzuY&_nc_oc=AdkJorGxb9TrwNozAnfDUuRIU7Ke4Ot3ZmTnYwu3zbyUtoYFqpooTWOny40dBO1tF70WSchEA9tV6K8YKVyarAs3&_nc_zt=23&_nc_ht=scontent.fjau4-1.fna&_nc_gid=E2OsrQV23ppOD8LrqPbCXw&oh=00_AfkiKVjsDsl_5RyMKEE96ccH_BVWlzg8_2dDb5K1UUsPoA&oe=6956296E" group-title="Internacional",DW ESpañol
+#EXTINF:-1 tvg-id="11" tvg-name="DW Español" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/DW%20Espa%C3%B1ol.jpg?raw=true" group-title="Internacional",DW ESpañol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="12" tvg-name="TeleMundo Latino" tvg-logo="https://scontent.fjau4-1.fna.fbcdn.net/v/t39.30808-6/585160310_1240015764840266_3785193216694616349_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=REOUwDS4H_AQ7kNvwFzhTT4&_nc_oc=Adm0hhxXTuQ6foRkv1e28--7tLpK-ARAoaZ0ED5VJ_HMsVd3wMbSDom-tWjA05bFA6VcRIPXWlnhm5ts0c87l86u&_nc_zt=23&_nc_ht=scontent.fjau4-1.fna&_nc_gid=EnqYMUFymNfTrpCkPc2QJg&oh=00_AfmGCebcglYCEK-fmf5dBi3j-rhEqE5DvpVs3SBH1Jif8A&oe=69561DE5" group-title="Internacional",TeleMundo Latino
+#EXTINF:-1 tvg-id="12" tvg-name="TeleMundo Latino" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Telemundo.jpg?raw=true" group-title="Internacional",TeleMundo Latino
 http://181.119.86.68:8000/play/b023/index.m3u8
 
-#EXTINF:-1 tvg-id="13" tvg-name="A&E" tvg-logo="https://scontent.fjau4-1.fna.fbcdn.net/v/t39.30808-6/352413427_2222124447978762_1945681016733407775_n.png?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=vtFXPrM8iPcQ7kNvwEX8SPW&_nc_oc=AdluqcHXGPzRO5FjzeTsphnmu1NO1iHNRNXHA88u1aPXy506rj-xP1EK1nyfstfl8J4&_nc_zt=23&_nc_ht=scontent.fjau4-1.fna&_nc_gid=tcAnYkfAFBASIFQ9o4EjWw&oh=00_AflroJGPt0W2LgUMf_mqJyfsYsUAOwMsVo4xGiFFkcrzQQ&oe=69506A57" group-title="Internacional",A&E
+#EXTINF:-1 tvg-id="13" tvg-name="A&E" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/A&E.jpg?raw=true" group-title="Internacional",A&E
 http://181.119.86.68:8000/play/c013/index.m3u8
 
-#EXTINF:-1 tvg-id="14" tvg-name="EXITOSA" tvg-logo="https://scontent.fjau4-1.fna.fbcdn.net/v/t39.30808-6/594089807_1292334582929597_140332658451612104_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2rt8-oH9Z7IQ7kNvwFAO7vO&_nc_oc=AdlSdwjFpsvgrLwduk8r6d6dU7AFyk2drZ5dfjWN2QsomUrSs9vB2DQfPntsSvHzFbk-IKU8QRKHsagDJT1bOmwU&_nc_zt=23&_nc_ht=scontent.fjau4-1.fna&_nc_gid=4KvJ0RoaUwiu8EIGbRjQrg&oh=00_Afl15O6m__F8DxdkELe_nyk_f4zRsGNpdkFPjwn9Suhg3Q&oe=69561A04" group-title="Perú",EXITOSA
+#EXTINF:-1 tvg-id="14" tvg-name="EXITOSA" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Exitosa.jpg?raw=true" group-title="Perú",EXITOSA
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="15" tvg-name="ATV+" tvg-logo="https://scontent.fjau4-1.fna.fbcdn.net/v/t39.30808-6/352098697_1332833370919076_9164849973348614895_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=RUcFPO3ZiIMQ7kNvwEwXwPj&_nc_oc=AdlMm2bh-jXSdUqpiRY4yGeJPrfgFzfNXaxbDUarqOm-2IEhrN06DfRBr0Svomd_5slojrZGmeukOy-__-OnvQyn&_nc_zt=23&_nc_ht=scontent.fjau4-1.fna&_nc_gid=fV-9YPpwjjKSWQHZlJ3w5A&oh=00_AfkQWIBMz7hArAsmYfK4KadLxdHGvlAUWR7Soa88MrSAGw&oe=695621C7" group-title="Perú",ATV+
+#EXTINF:-1 tvg-id="15" tvg-name="ATV+" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ATV+.jpg?raw=true" group-title="Perú",ATV+
 https://live-evg20.tv360.bitel.com.pe/bitel/Atv+-UDP_abr/bitel/Atv+-udp_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-name="ATV SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ATV_sur_2011.png/960px-ATV_sur_2011.png" group-title="Perú",ATV SUR
+#EXTINF:-1 tvg-id="16" tvg-name="ATV SUR" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/ATV%20Sur.jpg?raw=true" group-title="Perú",ATV SUR
 https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="17" tvg-name="GLOBAL TV" tvg-logo="https://spmedia.s3.amazonaws.com/wp-content/uploads/2010/11/img064.jpg" group-title="Perú",GLOBAL TV
+#EXTINF:-1 tvg-id="17" tvg-name="GLOBAL TV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Global%20TV.jpg?raw=true" group-title="Perú",GLOBAL TV
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="18" tvg-name="PBO" tvg-logo="https://scontent.fjau4-1.fna.fbcdn.net/v/t39.30808-6/339929826_762352888931418_5927966593389938118_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=fQx6P64i6GUQ7kNvwG7AHl3&_nc_oc=Adn-OvsRP1yOCfsawPkDAsCMK1yzqUxA4b8rts707PdcFmt-ApHjG5TmE35C7wbFEgYOhmYgGeikAUEWMtXazQoE&_nc_zt=23&_nc_ht=scontent.fjau4-1.fna&_nc_gid=IV1-tG-xJepNByCLWUpYgg&oh=00_AfmBszrH5uSmW47B7bU32ouBxRBNNstzbNws9nRRBsgAYg&oe=695609DC" group-title="Perú",PBO
+#EXTINF:-1 tvg-id="18" tvg-name="PBO" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/PBO.jpg?raw=true" group-title="Perú",PBO
 https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="19" tvg-name="RPP" tvg-logo="https://scontent.fjau4-1.fna.fbcdn.net/v/t39.30808-6/416099665_409431001412966_2302423103869955277_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=jkYTJ-mT71UQ7kNvwGnG1hn&_nc_oc=AdkyyNjLGWMGxo7PCaw4DzsqUKVEzhFUJOTKg5IeouoguZjm_65vRQqMK2IVhhzdQTNmLMpdLogRpUJj1JbpkVMc&_nc_zt=23&_nc_ht=scontent.fjau4-1.fna&_nc_gid=sXOj4QtNAlY8xeyC6qoDOA&oh=00_AfkdwWB_FHx_5nMT7KMEOSH8dV4OPf7ybWhY0KWXeDCf0w&oe=69563784" group-title="Perú",RPP
+#EXTINF:-1 tvg-id="19" tvg-name="RPP" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/RPP.jpg?raw=true" group-title="Perú",RPP
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="20" tvg-name="+tv Pasco" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/+TV%20Pasco.jpg?raw=true" group-title="Pasco",+tv Pasco
 https://live-evg11.tv360.bitel.com.pe/bitel/mastv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="21" tvg-name="Studio Pasco TV" tvg-logo="https://scontent.fjau4-1.fna.fbcdn.net/v/t39.30808-6/583251057_819733090834091_814308540062646777_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=wm3vfJ5rWWsQ7kNvwHXWtBO&_nc_oc=AdkMacxj5OdZhBln-Dv-5q-BP1ZYuW0buy8-1aFmm_Ovq272kOJj00ugd723JiE_nds&_nc_zt=23&_nc_ht=scontent.fjau4-1.fna&_nc_gid=sVr8yBrW8DxdSO2belPXdA&oh=00_AfnBROHl7pzV0mGNJ4K6TorWnM0b0_SjS4wwLdbIOe1oww&oe=69507B2A" group-title="Pasco",Studio Pasco TV
+#EXTINF:-1 tvg-id="21" tvg-name="Studio Pasco TV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Studio%20Pasco%20TV.jpg?raw=true" group-title="Pasco",Studio Pasco TV
 https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/chunks.m3u8
 
-#EXTINF:-1 tvg-id="22" tvg-name="Corporación TV" tvg-logo="https://scontent.fjau4-1.fna.fbcdn.net/v/t39.30808-6/601815687_849669834712468_7057248230863564934_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=MVYPrEkl--8Q7kNvwHAARG3&_nc_oc=Adn5jqVEbQyBK4qbzoSPSBRaqAyf5h04pnULf9oOyn_bHwTrrUS4LdEdjHPOaEDo9bk&_nc_zt=23&_nc_ht=scontent.fjau4-1.fna&_nc_gid=hD4gVKx94Iwjvyb1AcPwrA&oh=00_Afm4nOpU4erD5IBDC6GS_aJsS9UB0uJLTOvCGI3o_HCCSA&oe=69508A92" group-title="Pasco",Corporación TV
+#EXTINF:-1 tvg-id="22" tvg-name="Corporación TV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Coorporacion%20TV%20Pasco.jpg?raw=true" group-title="Pasco",Corporación TV
 https://live-evg5.tv360.bitel.com.pe/bitel/radiocorporacionpasco/chunks.m3u8
 
-#EXTINF:-1 tvg-id="23" tvg-name="Cumbre TV Pasco" tvg-logo="https://scontent.fjau4-1.fna.fbcdn.net/v/t39.30808-6/365110473_782452950548772_7243401422972952118_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=-DgKyl3tDqoQ7kNvwFRkWR2&_nc_oc=AdmpAAQ8PbccUGRgNLDD4lUYH6DzQ3dTRVPacRSMpvbmf3qWR_85DUCNtqc-gzudUPM&_nc_zt=23&_nc_ht=scontent.fjau4-1.fna&_nc_gid=biamDsELlNkFVIMTkazKnA&oh=00_Afniapzo2qyMKYteCJnx6MtHzaHdJhWsQdRUvIU_taNbXQ&oe=69508AAC" group-title="Pasco",Cumbre TV Pasco
+#EXTINF:-1 tvg-id="23" tvg-name="Cumbre TV Pasco" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Cumbre%20TV%20Pasco.jpg?raw=true" group-title="Pasco",Cumbre TV Pasco
 https://live-evg18.tv360.bitel.com.pe/bitel/cumbretv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="24" tvg-name="KARIBEÑA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Radio_La_Karibe%C3%B1a.svg/revision/latest/scale-to-width-down/1000?cb=20220809153753&path-prefix=es" group-title="Perú",KARIBEÑA TV
+#EXTINF:-1 tvg-id="24" tvg-name="KARIBEÑA TV" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Karibe%C3%B1a.jpg?raw=true" group-title="Perú",KARIBEÑA TV
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
+
