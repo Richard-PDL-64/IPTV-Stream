@@ -76,6 +76,7 @@ https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m
 https://live.presstv.ir/hls/hispantv.m3u8
 
 #EXTINF:-1 tvg-id="26" tvg-name="Tele Sur" tvg-logo="https://github.com/Richard-PDL-64/Imagenes-m3u8/blob/main/Tele%20Sur.jpg?raw=true" group-title="Internacional",Tele Sur
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767753462/ei/lnJdaf-KINmH0u8P9ryxsQE/ip/190.43.252.190/id/2-TJWjqWsSU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666467/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3CIBLf0GAW9NyKBo3q-W2utHE2wmS1Kgf7xmtRk03oAw3V2E9F5EZoHLfQyrtVjsRNaTqu168Mi/spc/wH4QqzSvywlCHYPspr2NjR3TUWRBJGv3GqCPZ7IPmkpTJL0B9kZiC7t7e-g6_sIfv90/vprv/1/go/1/ns/CX8-4we2LzJn9ALi1CJexlAR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/dMRn80BumfdJPM3B3/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMbBTTFOHVwbOKwz6ynNim5nlmR4KYzsz-p5sHj543VpAiEA0ck_z5gELRkP5R_Lt6h1IDwxdQH5YVWQGFjacbX5SlA%3D/file/index.m3u8
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+
 
 
